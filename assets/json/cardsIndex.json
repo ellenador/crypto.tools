@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "category": "Construction",
+        "name": "Parachains Kusama",
+        "img": "miro.medium.com/max/4000/1*xPcVR_fkITd0ssKBvJ3GMw.png",
+        "description": "Take part in the crodwloads and receive many airdrops",
+        "botton": "see parachains",
+        "to": "/parachains"
+    },
+    {
+        "id": 2,
+        "category": "Smart Contracts",
+        "name": "Polygon Network",
+        "img": "assets.coingecko.com/coins/images/4713/large/matic___polygon.jpg?1612939050.png",
+        "description": "Tarming, play, lend money and many more",
+        "botton": "see polygon",
+        "to": "/polygon"
+    }
+]
