@@ -56,7 +56,7 @@ export default {
         {
           name: "SherpaX",
           link: 'https://chainx.org/en/',
-          symbol: "Ksx",
+          symbol: "KSX",
           type: "Interoperability",
           rewards: "",
         },
