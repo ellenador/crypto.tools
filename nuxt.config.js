@@ -71,5 +71,8 @@ export default {
   target: 'static',
   router: {
     base: '/crypto.tools'
-  }
+  },
+  generate: {
+    fallback: "404.html"
+  },
 }
