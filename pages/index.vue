@@ -4,7 +4,7 @@
 
 <script>
 
-import cards from '~/components/cardsIndex/cParachains.vue'
+import cards from '~/components/cardsIndex/cards.vue'
 
 export default {
   components: {
