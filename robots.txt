@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://elcryptotools.xyz/sitemap.xml

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: elcryptotools.xyz
+Token: f3e3db28f213db420030e2b91fb21b3b42ad20e22dfe2b301ca75b09d100a294

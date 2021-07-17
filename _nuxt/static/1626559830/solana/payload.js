@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/solana", {data:[{}],fetch:{},mutations:void 0});

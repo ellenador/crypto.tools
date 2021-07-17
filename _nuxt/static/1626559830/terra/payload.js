@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/terra", {data:[{}],fetch:{},mutations:void 0});

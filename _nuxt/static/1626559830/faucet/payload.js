@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/faucet", {data:[{}],fetch:{},mutations:void 0});

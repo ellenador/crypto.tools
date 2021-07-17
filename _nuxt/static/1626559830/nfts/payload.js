@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/nfts", {data:[{}],fetch:{},mutations:void 0});
